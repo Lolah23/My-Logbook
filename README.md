@@ -5,8 +5,8 @@
 | 29.10.2025 | 1 | Enrolled for the Cybersecurity course on Cisco Netacad | Getting started  |
 | 29.10.2025 | 2 | Took the knowledge check Test on Netacad  | Done |
 | 30.10.2025 | 2 | Kick-off with Module 1  | Module 1 started |
-| 31.10.2025 | 2 | Reading through Module 1 & Quiz  | Completed |
-| 3.11.2025 | 2 | Kick-off with Module 2  | Module 2 started |
-| 4.11.2025 | 2 | Kick-off lecture  | Course started |
+| 3.11.2025 | 3 | Reading through Module 1 & Quiz  | Completed |
+| 3.11.2025 | 5 | Module 2 started  | Module 2 completed |
+| 4.11.2025 | 2 | Kick-off with Module 3  | Module 3 started |
 | 4.11.2025 | 2 | Kick-off lecture  | Course started |
 | 4.11.2025 | 2 | Kick-off lecture  | Course started |
