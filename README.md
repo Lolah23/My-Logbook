@@ -6,7 +6,9 @@
 | 29.10.2025 | 2 | Took the knowledge check Test on Netacad  | Done |
 | 30.10.2025 | 2 | Kick-off with Module 1  | Module 1 started |
 | 3.11.2025 | 3 | Reading through Module 1 & Quiz  | Completed |
-| 3.11.2025 | 5 | Module 2 started  | Module 2 completed |
+| 3.11.2025 | 4 | Module 2 started  | Module 2 completed |
 | 4.11.2025 | 2 | Kick-off with Module 3  | Module 3 started |
-| 4.11.2025 | 2 | Kick-off lecture  | Course started |
-| 4.11.2025 | 2 | Kick-off lecture  | Course started |
+| 5.11.2025 | 3 | Module 3  | Completed |
+| 5.11.2025 | 4 | Module 4  | completed |
+| 6.11.2025 | 2 | Kick-off lecture  | Course started |
+| 6.11.2025 | 2 | Kick-off lecture  | Course started |
