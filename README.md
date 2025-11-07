@@ -8,6 +8,7 @@
 | 3.11.2025 | 3 | Reading through Module 1 & Quiz  | Completed |
 | 3.11.2025 | 4 | Module 2 started  | Module 2 completed |
 | 4.11.2025 | 2 | Kick-off with Module 3  | Module 3 started |
+| 4.11.2025 | 1 | Created an account on PortSwigger to know how it works  | Getting started |
 | 5.11.2025 | 3 | Module 3  | Completed |
 | 5.11.2025 | 4 | Module 4  | completed |
 | 7.11.2025 | 3 | Module 5  | Completed |
