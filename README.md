@@ -13,3 +13,19 @@
 | 5.11.2025 | 4 | Module 4  | completed |
 | 7.11.2025 | 3 | Module 5  | Completed |
 | 7.11.2025 | 2 | Cisco course final exam  | Completed |
+| 10.11.2025 | 2 | Check the intro Material for the Portswigger environment  | Completed |
+| 10.11.2025 | 2 | Check the first Lab from the SQL injection  | Started |
+| 13.11.2025 | 2 | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data  | In progress |
+| 17.11.2025 | 3 | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data  | Done |
+| 17.11.2025 | 2 | Check the second Lab from the SQL injection  | Started |
+| 18.11.2025 | 3 | SQL injection vulnerability allowing login bypass   | Done |
+| 18.11.2025 | 3 | Started the first Lab from the Authentication Lab   | Started |
+| 18.11.2025 | 2 | Started the Lab on Username enumeration via different responses   | In progress |
+| 19.11.2025 | 4 | Working on the Lab on Username enumeration via different responses   | Not done |
+| 20.11.2025 | 3 | Trying to figure out the error on the Lab on Username enumeration via different responses   | Not done |
+| 21.11.2025 | 3 | Check the material link provided on The Booking system project → Phase 1 → Part 1 Task  | Started |
+| 24.11.2025 | 4 | Installed and configured OWASP ZAP for automated vulnerability scanning   | Started |
+| 24.11.2025 | 3 | Conducted manual functionality testing on the registration page   | In progress |
+
+
+
