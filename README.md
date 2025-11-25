@@ -24,8 +24,10 @@
 | 19.11.2025 | 4 | Working on the Lab on Username enumeration via different responses   | Not done |
 | 20.11.2025 | 3 | Trying to figure out the error on the Lab on Username enumeration via different responses   | Not done |
 | 21.11.2025 | 3 | Check the material link provided on The Booking system project → Phase 1 → Part 1 Task  | Started |
-| 24.11.2025 | 4 | Installed and configured OWASP ZAP for automated vulnerability scanning   | Started |
+| 23.11.2025 | 4 | Installed and configured OWASP ZAP for automated vulnerability scanning   | Started |
 | 24.11.2025 | 3 | Conducted manual functionality testing on the registration page   | In progress |
+| 25.11.2025 | 3 | Ran ZAP scan and exported the report  | Done |
+
 
 
 
