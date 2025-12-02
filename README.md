@@ -27,6 +27,11 @@
 | 23.11.2025 | 4 | Installed and configured OWASP ZAP for automated vulnerability scanning   | Started |
 | 24.11.2025 | 3 | Conducted manual functionality testing on the registration page   | In progress |
 | 25.11.2025 | 3 | Ran ZAP scan and exported the report  | Done |
+| 29.11.2025 | 4 | Cloned the updated repository and configured the testing environment based on the provided deployment instructions. | Done |
+| 30.11.2025 | 3 | Re-test and Documented the original exploit steps and the new application response. | Done |
+| 01.12.2025 | 3 | Collaborated with my partner to draft and prepared necessary screenshots as evidence for the verification steps. | Done |
+| 02.12.2025 | 2 | Reviewed the complete report, ensured all five findings were clearly addressed | Done |
+
 
 
 
