@@ -31,6 +31,17 @@
 | 30.11.2025 | 3 | Re-test and Documented the original exploit steps and the new application response. | Done |
 | 01.12.2025 | 3 | Collaborated with my partner to draft and prepared necessary screenshots as evidence for the verification steps. | Done |
 | 02.12.2025 | 2 | Reviewed the complete report, ensured all five findings were clearly addressed | Done |
+| 08.12.2025 | 3 | Working on the Portwigger (Username enumeration via different responses Lab) | Failed |
+| 09.12.2025 | 2 | Working on the Portswigger (Access control Lab) | Failed |
+| 11.12.2025 | 2 | Checked the Phase 3 requirements and background material | Done |
+| 16.12.2025 | 2 | Prepared two different accounts for the authorization test | Done |
+| 17.12.2025 | 3 | Horizontal & Vertical Privilege Escalation Testing | Done |
+| 18.12.2025 | 2 | Documented all successful and failed attempts at authorization bypass | Done |
+
+
+
+
+
 
 
 
