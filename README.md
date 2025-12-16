@@ -36,8 +36,11 @@
 | 11.12.2025 | 2 | Checked the Phase 3 requirements and background material | Done |
 | 16.12.2025 | 2 | Prepared two different accounts for the authorization test | Done |
 | 17.12.2025 | 3 | Horizontal & Vertical Privilege Escalation Testing | Done |
-| 18.12.2025 | 2 | Documented all successful and failed attempts at authorization bypass | Done |
-
+| 17.12.2025 | 2 | PHASE 4 - GDPR Compliance  | Started |
+| 17.12.2025 | 3 | Performed a full review of all user data collected by the application. | Done |
+| 18.12.2025 | 2 | PHASE 3 - Documented all successful and failed attempts at authorization bypass | Done |
+| 18.12.2025 | 2 | PHASE 4 - Reviewed the Initial Scenario requirements given against the GDPR principles | Done |
+| 18.12.2025 | 2 | Researched common practices for cookiepolicy.md (referencing external resources like cookieyes.com) to comply with ePrivacy | Done |
 
 
 
